@@ -36,6 +36,7 @@ Make sure to navigate to the directory where the code files are located. You can
 Once you have the dataset and fetched the code files, you can run the project using the following command:
 ```bash
 python runner.py
+```
 
 ## Contributing
 If you would like to contribute to MemoRec, please follow these steps:
