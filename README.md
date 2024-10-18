@@ -26,7 +26,9 @@ Before you begin, ensure you have met the following requirements:
 ## Download Dataset
 To download the dataset required for the project, run the following command:
 
+```bash
 git clone -b memorec https://github.com/MDEGroup/MemoRec.git
+```
 The dataset can be found in the dataset directory:
 MemoRec/dataset
 
