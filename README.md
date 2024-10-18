@@ -1,8 +1,8 @@
 # MemoRec
 
 MemoRec is a project reproduced in Python. This README provides instructions on how to download the necessary dataset, set up the environment, and run the project.
-A Recommender System based on Collaborative-filtering Techniques to Support the Specification of Metamodels
-Authors: Juri Di Rocco, Davide Di Ruscio, Claudio Di Sipio, Phuong T. Nguyen, Alfonso Pierantonio
+- Paper Title: A Recommender System based on Collaborative-filtering Techniques to Support the Specification of Metamodels
+- Authors: Juri Di Rocco, Davide Di Ruscio, Claudio Di Sipio, Phuong T. Nguyen, Alfonso Pierantonio
 
 ## Table of Contents
 
