@@ -19,8 +19,9 @@ MemoRec is a novel approach that makes use of a collaborative filtering strategy
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-
+```bash
 - Python 3.x installed on your system.
+```
 
 ## Download Dataset
 To download the dataset required for the project, run the following command:
