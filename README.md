@@ -39,11 +39,24 @@ Once you have the dataset and fetched the code files, you can run the project us
 python runner.py
 ```
 
-## Contributing
-If you would like to contribute to MemoRec, please follow these steps:
 
-Fork the project.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+## Contribution Guidelines
+
+To contribute to this project, please follow these steps:
+
+- Fork the project.
+- Create a new branch:
+  ```bash
+  git checkout -b feature-branch
+  ```
+
+- Make your changes.
+- Commit your changes:
+  ```bash
+  git commit -m 'Add some feature'
+  ```
+- Push to the branch:
+  ```bash
+  git push origin feature-branch
+  ```
+- Create a new Pull Request.
