@@ -1,0 +1,8 @@
+sourceDirectory:/home/smanduru/ReCS/MemoRec/dataset/pkg_cls_raw_RQ1/
+structuralSimilaritiesDirectory:/home/smanduru/ReCS/MemoRec/tools/it.univaq.disim.memorec.dataextractor/curated/sim/
+
+# Configuration (C1.1, C1.2, C2.1, C2.2)
+configuration:C2.1
+
+# Validation type (ten-fold, leave-one-out)
+validation:ten-fold
